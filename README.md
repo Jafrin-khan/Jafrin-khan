@@ -13,7 +13,7 @@
 - 💬 Ask me about Web Development, public speaking , designing , deployment of websites. 
 - 📫 Reach me at LinkedIn https://www.linkedin.com/in/jafrin-khan-72002a202/.
 - 😄 I love designing websites and playing around with code at the backend.
-- ⚡ I am a Rotractor where me and my team members collaborate to help people and mentor people.
+- ⚡ I am a Rotractor where me and my team members collaborate to help and mentor people.
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jafrin-khan)](https://github.com/ryo-ma/github-profile-trophy)
