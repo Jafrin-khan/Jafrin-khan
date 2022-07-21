@@ -14,7 +14,7 @@
 - 😄 I love designing websites and playing around with code at the backend.
 - ⚡ I am a Rotractor where me and my team members collaborate to help and mentor people.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jafrin-khan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jafrin-khan)](https://github.com/ryo-ma/github-profile-trophy)
 
