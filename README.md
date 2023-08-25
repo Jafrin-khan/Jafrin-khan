@@ -5,10 +5,11 @@
 
 
 
-
+- 💕Problem Solving is my love
 - 💬 Ask me about Web Development, public speaking , designing , deployment of websites. 
 - 📫 Reach me at LinkedIn https://www.linkedin.com/in/jafrin-khan-72002a202/.
 - 😄 I love designing websites and playing around with code at the backend.
+  
 
 
 
