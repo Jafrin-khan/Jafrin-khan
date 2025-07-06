@@ -2,8 +2,8 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jafrin-khan&show_icons=true&theme=radica"/>
 
 - 💕I love problem solving
-- 💬 Ask me about Web Development, designing and deployment of websites. 
-- 📫 Reach me at LinkedIn https://www.linkedin.com/in/jafrin-khan-72002a202/.
+- 💬 Ask me about App Development and latest technologies inplace. 
+- 📫 Reach out to me at LinkedIn https://www.linkedin.com/in/jafrin-khan-72002a202/.
 - 😄 Code with passion.
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jafrin-khan)](https://github.com/ryo-ma/github-profile-trophy)
